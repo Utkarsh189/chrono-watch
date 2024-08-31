@@ -2,9 +2,7 @@
 Table of Contents
 
 •	Introduction
-
 •	Installation
-
   o	Prerequisites
   o	Instructions
 •	Usage
