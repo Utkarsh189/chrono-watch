@@ -30,4 +30,11 @@ Prerequisites
 •	Python 3.6 or higher
 
 •	Scrapy (install using pip install scrapy)
+Instructions
+
+Clone this repository to your local machine using Git:
+
+git clone https://github.com/adil6572/chrono24-watch-scraper.git
+cd chrono24-watch-scraper
+
 
